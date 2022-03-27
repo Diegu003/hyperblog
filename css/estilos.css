@@ -19,6 +19,12 @@ body
 
 }
 
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #cabecera #stagline
 {
     padding: 0 0 0 1em;
@@ -42,6 +48,7 @@ body
 
 #post
 {
+    background: white;
     padding: 1em;
 
 }
